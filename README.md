@@ -2,12 +2,12 @@
 ### 個人データ
  - 氏名：豊倉正
  - Github URL：https://github.com/wengtadashi
- - 特技：中国語ネイティブ
+ - 語学：中国語、TOEIC800
 ### 職務経歴（概要）
  - ゲームのサーバサイド開発
    - Python, PHP合わせて3年半
  - WEBアプリケーション開発
-   - Ruby, PHP, Perl合わせて3年以上
+   - Ruby, PHP, Perl合わせて6年以上
  - その他ソフトウェア開発経験
  　- CLIツール（Python, Shell script)
  　- iOS App（Objective-C）
